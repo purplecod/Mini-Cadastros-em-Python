@@ -11,7 +11,7 @@ try:
     arq = open('cadastro.txt')
 except:
     if arqui.achearquirvo(arq):
-        print('arquirvo encontrado')
+        print('arquirvo encontrado.')
 
     else:
         print('arquirvo não encontrado')

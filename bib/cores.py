@@ -5,7 +5,7 @@ def vermelho(txt):
   return f'\033[31m{txt}\033[m'
 def verde (txt):
   """
-  essa função vai mudar a cor de um retorno de qualquer coisa para verde
+  essa função vai mudar a cor de um retorno de qualquer coisa para verde.
   """
   return f'\033[32m{txt}\033[m'
 def amarelo (txt):

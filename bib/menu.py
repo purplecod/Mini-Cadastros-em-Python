@@ -6,7 +6,7 @@ def titulo(txt):
   =============================================
                     titulo               
   ============================================= 
-  o parâmatro "txt" é o titulo que o usuario deseja usar
+  o parâmatro "txt" é o titulo que o usuario deseja usar.
   """
   print('==='*15)
   print(txt.center(44))
