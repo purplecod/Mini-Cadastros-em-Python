@@ -5,8 +5,6 @@ import os
 sexo = 0
 okk = False
 dados = []
-pessoas = {}
-z = len(dados)
 cont = 0
 arq = 'cadastro.txt'
 try:
